@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="src">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/api/src" />
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/console/src" />
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/console/test" />
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/core/src" />
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/core/test" />
+        <root url="file://D:/IdeaProjects/new/yarg/core/modules/server/src" />
+      </SOURCES>
+    </library>
+  </component>
+</application>

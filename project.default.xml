@@ -1,0 +1,34 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="D:/DDD/Statistic_projectRC/Statistic_projectRC" value="PREVIEW" />
+            <entry key="D:/Di/Statistic-master" value="PREVIEW" />
+            <entry key="D:/Dipl/Statistic-master" value="PREVIEW" />
+            <entry key="D:/Diplom/Statistics_project/Statistics_project" value="PREVIEW" />
+            <entry key="D:/Diplom1/Statistics_project/Statistics_project" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="GradleMigrationSettings" migrationVersion="1" />
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>
